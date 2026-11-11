@@ -47,6 +47,7 @@ I'm a Full Stack Web Developer passionate about building responsive websites and
 ### 🌐 Let's Connect
 
 **Portfolio:** [zaheerportfolio.infinityfreeapp.com](https://zaheerportfolio.infinityfreeapp.com/)
+**Linktree:** [Linktree](https://linktr.ee/zaheerasgher)
 
 **GitHub:** [@zaheer457](https://github.com/zaheer457)
 
